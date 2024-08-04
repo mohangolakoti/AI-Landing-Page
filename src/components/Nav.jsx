@@ -24,7 +24,7 @@ const Nav = () => {
           </ul>
           <a href="/" className='font-Lilita text-2xl font-medium mr-24 text-[#559adb]'>
             {/* <img src={logo} width={60} alt="logo" /> */}
-            <span className="bg-[#559adb] px-3 mr-1 rounded-full text-[#559adb]">.</span>
+            <span className="bg-[#559adb] mr-1 px-3 rounded-full text-[#559adb]">.</span>
             Pulse.ai
           </a>
           <div className="flex justify-center text-base items-center max-lg:hidden gap-4">
